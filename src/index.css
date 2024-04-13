@@ -1,0 +1,15 @@
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  list-style: none;
+  width: 180px;
+  height: 100px;
+  background: red;
+  border-radius: 10px;
+}
